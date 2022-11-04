@@ -1,0 +1,88 @@
+body{
+    background-image: url("https://png.pngtree.com/background/20210712/original/pngtree-cute-hand-drawn-style-math-education-stripes-background-picture-image_1176962.jpg");
+    background-repeat: no-repeat;   
+    background-size: 113%;
+    background-attachment: fixed; /*Scroll -> el texto se movera contigo; Fixed -> imagene estatica*/
+    margin: 0;
+}
+
+h1{
+    color: rgba(248,209,202,255); 
+    text-shadow: 1px 1px 1px rgb(173, 141, 141);
+    justify-content: space-between;
+    text-align: center;
+    font-size: 50px;
+}
+
+h3{
+    color: rgba(226,145,133,255); 
+    text-shadow: 1px 1px 1px rgba(226,145,133,255)  ;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 60px;
+}
+
+#bastri, #alttri, #aretri {
+color: rgb(92, 170, 201);
+margin:80px 0px 10px 0px;
+text-align: center;
+font-size: 50px;
+}
+
+
+#bapara, #alpara, #arpara{
+color: rgb(255, 0, 0);
+margin: 10px;
+margin:80px 0px 10px 0px;
+text-align: center;
+font-size: 50px;
+}
+
+#barec, #alrec, #arrec{
+color: rgba(192,198,187,255);
+margin: 10px;
+margin:80px 0px 10px 0px;
+text-align: center;
+font-size: 50px;
+}
+
+#lacua, #arcua{
+    color: rgb(245, 116, 30);
+    margin: 10px;
+    margin:80px 0px 10px 0px;
+    text-align: center;
+    font-size: 50px;
+}
+
+#dmarom, #dmerom, #arrom{
+    color: rgba(255,219,178,255);
+    margin: 10px;
+    margin:80px 0px 10px 0px;
+    text-align: center;
+    font-size: 50px;    
+}
+
+#dmaco, #dmeco, #areco{
+    color: rgba(255,219,178,255);
+    margin: 10px;
+    margin:80px 0px 10px 0px;
+    text-align: center;
+    font-size: 50px;
+}
+
+#bmatra, #bmetra, #artra{
+    color: darkorange;
+    margin: 10px;
+    margin:80px 0px 10px 0px;
+    text-align: center;
+    font-size: 50px;
+}
+
+#radcir, #arcir{
+    color: rgba(208,229,227,255);
+    text-shadow: 1px 1px 1px rgba(165,196,195,255)  ;
+    margin: 10px;
+    margin:80px 0px 10px 0px;
+    text-align: center;
+    font-size: 50px;
+}
